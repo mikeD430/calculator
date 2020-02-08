@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mdomingue/Labs/_apis/build/status/Labs?branchName=master)](https://dev.azure.com/mdomingue/Labs/_build/latest?definitionId=36&branchName=master)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
